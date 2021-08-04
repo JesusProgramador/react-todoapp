@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jesusprogramador.github.io/react-todoapp/static/css/main.1887d407.chunk.css",
+    "main.js": "/jesusprogramador.github.io/react-todoapp/static/js/main.c11f7e1a.chunk.js",
+    "main.js.map": "/jesusprogramador.github.io/react-todoapp/static/js/main.c11f7e1a.chunk.js.map",
+    "runtime-main.js": "/jesusprogramador.github.io/react-todoapp/static/js/runtime-main.1f7d45e4.js",
+    "runtime-main.js.map": "/jesusprogramador.github.io/react-todoapp/static/js/runtime-main.1f7d45e4.js.map",
+    "static/js/2.9ddb0994.chunk.js": "/jesusprogramador.github.io/react-todoapp/static/js/2.9ddb0994.chunk.js",
+    "static/js/2.9ddb0994.chunk.js.map": "/jesusprogramador.github.io/react-todoapp/static/js/2.9ddb0994.chunk.js.map",
+    "index.html": "/jesusprogramador.github.io/react-todoapp/index.html",
+    "static/css/main.1887d407.chunk.css.map": "/jesusprogramador.github.io/react-todoapp/static/css/main.1887d407.chunk.css.map",
+    "static/js/2.9ddb0994.chunk.js.LICENSE.txt": "/jesusprogramador.github.io/react-todoapp/static/js/2.9ddb0994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7d45e4.js",
+    "static/js/2.9ddb0994.chunk.js",
+    "static/css/main.1887d407.chunk.css",
+    "static/js/main.c11f7e1a.chunk.js"
+  ]
+}
